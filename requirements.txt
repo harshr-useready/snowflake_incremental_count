@@ -1,6 +1,0 @@
-snowflake-snowpark-python
-streamlit
-pandas
-numpy
-gitpython
-python
